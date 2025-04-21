@@ -5,7 +5,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Gmail Badge](https://img.shields.io/badge/-alvaro.o.l.swift@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvaro.o.l.swift@gmail.com)](alvaro.o.l.swift@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="Schuwii-makii" /> </p>
 
 T-T
 
